@@ -1,0 +1,17 @@
+name = "ez-match"
+main = ".open-next/worker.js"
+compatibility_date = "2026-02-19"
+compatibility_flags = ["nodejs_compat", "global_fetch_strictly_public"]
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ez-match-db"
+database_id = "00000000-0000-0000-0000-000000000000"
+
+[[r2_buckets]]
+binding = "FILES"
+bucket_name = "ez-match-files"
