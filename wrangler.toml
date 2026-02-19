@@ -10,7 +10,7 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "ez-match-db"
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "a1aaf8fb-243b-4cb6-b913-910793bdaed1"
 
 [[r2_buckets]]
 binding = "FILES"
