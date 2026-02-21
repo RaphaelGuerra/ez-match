@@ -1,5 +1,16 @@
 # EZ-Match MVP
 
+Last updated: 2026-02-21
+
+## Table of Contents
+
+<!-- TOC start -->
+- [Stack](#stack)
+- [Funcionalidades implementadas](#funcionalidades-implementadas)
+- [Configuração local](#configurao-local)
+- [D1 / Cloudflare](#d1--cloudflare)
+<!-- TOC end -->
+
 Sistema interno de conciliação semanal PMS x bancos para o Resort Itatiaia.
 
 ## Stack
