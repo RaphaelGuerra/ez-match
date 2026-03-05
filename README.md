@@ -11,6 +11,9 @@ Last updated: 2026-03-05
 - [D1 / Cloudflare](#d1--cloudflare)
 <!-- TOC end -->
 
+[![Lint](https://github.com/RaphaelGuerra/ez-match/actions/workflows/lint.yml/badge.svg)](https://github.com/RaphaelGuerra/ez-match/actions/workflows/lint.yml)
+[![Security](https://github.com/RaphaelGuerra/ez-match/actions/workflows/security.yml/badge.svg)](https://github.com/RaphaelGuerra/ez-match/actions/workflows/security.yml)
+
 Sistema interno de conciliação semanal PMS x bancos para o Resort Itatiaia.
 
 ## Stack
